@@ -20,7 +20,7 @@ An end-to-end AI-powered customer churn prediction system that combines Machine 
 ![Product Region](Dashboard%20Screenshot/Product_Region_Analysis.png)
 
 ##  Live Demo
- **[Click here to view Live App](https://nagendra-churn-predictor.streamlit.app)**
+ **[Click here to view Live App](https://amulya-churn-predictor.streamlit.app/)**
 
 ##  Tech Stack
 | Tool | Purpose |
@@ -143,7 +143,7 @@ groq
 
 ##  Author
 **Amulya S**
--  nagendravsagar22@gmail.com
+-  amulyasrinivas07@gmail.com
 -  [LinkedIn](https://www.linkedin.com/in/amulya-s)
 -  [GitHub](https://github.com/amulya-analyst)
 
