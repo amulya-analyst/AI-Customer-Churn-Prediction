@@ -111,7 +111,7 @@ AI-Powered-Customer-Churn-Prediction/
 ##  How to Run Locally
 ```bash
 # Clone repository
-git clone https://github.com/Nagendra22-sagar/AI-Powered-Customer-Churn-Prediction.git
+git clone https://github.com/amulya-analyst/AI-Customer-Churn-Prediction.git
 
 # Navigate to folder
 cd AI-Powered-Customer-Churn-Prediction
