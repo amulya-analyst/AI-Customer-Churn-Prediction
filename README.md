@@ -1,6 +1,6 @@
 #  AI-Powered Customer Churn Prediction & Retention Intelligence System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nagendra-churn-predictor.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amulya-churn-predictor.streamlit.app/)
 
 ##  Project Overview
 An end-to-end AI-powered customer churn prediction system that combines Machine Learning, Generative AI, and Business Intelligence to identify at-risk customers and provide actionable retention strategies.
@@ -142,10 +142,10 @@ groq
 - **Version Control** — Git & GitHub
 
 ##  Author
-**Nagendra V Sagar**
+**Amulya S**
 -  nagendravsagar22@gmail.com
--  [LinkedIn](https://linkedin.com/in/nagendravsagar)
--  [GitHub](https://github.com/Nagendra22-sagar)
+-  [LinkedIn](https://www.linkedin.com/in/amulya-s)
+-  [GitHub](https://github.com/amulya-analyst)
 
 ##  License
 This project is open source and available for educational and portfolio purposes.
